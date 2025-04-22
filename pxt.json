@@ -1,7 +1,7 @@
 {
     "name": "SuperBitV3",
     "version": "1.0.0",
-    "description": "https://github.com/Chance-Dui/SuperBitV3.0",
+    "description": "https://github.com/Chance-Dui/SuperBitV3",
     "license": "MIT",
     "dependencies": {
         "core": "*",
