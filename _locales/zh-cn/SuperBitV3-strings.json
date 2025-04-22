@@ -1,0 +1,20 @@
+{
+
+  "SuperBitV3.RGB_Program|block": "RGB编程灯",
+  "SuperBitV3.Music|block": "音乐播放|%index",
+  "SuperBitV3.Servo|block": "舵机(180)|编号 %num|角度 %value",
+  "SuperBitV3.Servo2|block": "舵机(270)|编号 %num|角度 %value",
+  "SuperBitV3.Servo3|block": "舵机(360)|编号 %num|方向 %pos|速度 %value",
+  "SuperBitV3.Servo4|block": "舵机(360-可旋转的)|编号 %num|方向 %pos|速度 %value",
+  "SuperBitV3.MotorRun|block": " 直流电机|%index|速度(-255~255) %speed",
+  "SuperBitV3.MotorRunDual|block": " 直流电机|%motor1|速度(-255~255) %speed1|%motor2|速度(-255~255) %speed2",
+  "SuperBitV3.MotorStopAll|block": "停止所有电机",
+  "SuperBitV3.StepperDegree|block": "步进电机(28BYJ-48) |%index|角度 %degree",
+  "SuperBitV3.StepperTurn|block": "步进电机(28BYJ-48) |%index|转 %turn|圈数",
+  "SuperBitV3.StepperDual|block": "双步进电机(角度) |B1 %degree1| B2 %degree2",
+  "SuperBitV3.enPos.forward|block": "正转",
+  "SuperBitV3.enPos.reverse|block": "反转",
+  "SuperBitV3.enPos.stop|block": "停止",
+  "SuperBitV3.PWMOFF|block":  "关闭PWM输出|%index"
+ 
+}
