@@ -1,7 +1,7 @@
 {
     "name": "SuperBitV3",
     "version": "1.0.0",
-    "description": "https://github.com/Chance-Dui/SuperBitLibV3",
+    "description": "https://github.com/Chance-Dui/SuperBitV3.0",
     "license": "MIT",
     "dependencies": {
         "core": "*",
@@ -11,8 +11,8 @@
     "files": [
         "README.md",
         "main.ts",
-        "_locales/zh-cn/SuperBitV2-strings.json",
-        "_locales/zh-tw/SuperBitV2-strings.json"
+        "_locales/zh-cn/SuperBitV3-strings.json",
+        "_locales/zh-tw/SuperBitV3-strings.json"
     ],
     "testFiles": [
         "test.ts"
