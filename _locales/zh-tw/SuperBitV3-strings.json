@@ -1,6 +1,5 @@
 {
-  "SuperBitV2.RGB_Program|block": "RGB編程燈",
-  "SuperBitV2.Music|block": "音樂播放|%index",
+
   "SuperBitV2.Servo|block": "舵機(180)|編號 %num|角度 %value",
   "SuperBitV2.Servo2|block": "舵機(270)|編號 %num|角度 %value",
   "SuperBitV2.Servo3|block": "舵機(360)|編號 %num|方向 %pos|速度 %value",
